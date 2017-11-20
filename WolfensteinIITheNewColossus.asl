@@ -1,6 +1,6 @@
 state("NewColossus_x64vk")
 {
-    int isLoading : 0x3C51460;
+    int isLoading : 0x3C60560;
 }
 
 exit
